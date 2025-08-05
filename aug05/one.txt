@@ -1,0 +1,10 @@
+Upload Image to Colab Env
+Load and Display the Image
+Convert from BGR to RGB
+Resize to 128x128
+Convert to grayscale
+Grayscale to binary using Thresholding
+Normalize image pixel values
+Basic augmentation - flipping and rotating
+Apply filters to remove noise and gaussian blur
+Flatten image and display new shape
